@@ -1,8 +1,12 @@
-# OPDRACHT 2 - "Rad van fortuin" -
+# Start - "The Boilerplate" -
 
-# In deze opdacht ga je een Rad van Fortuin nabouwen in HTML/CSS/JS
-# Je gaat daarbij vooral letten op de volgende zaken:
+# Deze boilerplate mag je gebruiken als 'beginnetje' om het developmentproces wat te versnellen
+# Het zorgt ervoor dat je snel up-and-running bent met een basis-setup voor: 
 
-# - Pas zo veel mogelijk ES6 toe!
-# - Animatie-frameworks gebruiken is toegestaan, maar niet verplicht.
-# - Refactor je code en zorg voor nette (consistente) code. Code-conventions gebruiken!
+# Webpack
+# node packages
+# voorbereidingen voor GIT
+# SASS / SCSS loaders
+
+# Tevens biedt deze boilerplate ook een mooie opstap voor als je straks aan de slag gaat met React, NextJS in de periode hierna
+# Uiteraard staat het je vrij om dit zelfstandig op te bouwen indien je eraan toe bent!
