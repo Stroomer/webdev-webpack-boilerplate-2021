@@ -3,7 +3,7 @@
 # Deze boilerplate mag je gebruiken als 'beginnetje' om het developmentproces wat te versnellen
 # Het zorgt ervoor dat je snel up-and-running bent met een basis-setup voor: 
 
-# Webpack
+# - Webpack
 # node packages
 # voorbereidingen voor GIT
 # SASS / SCSS loaders
